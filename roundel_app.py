@@ -1,7 +1,7 @@
 # --------------------------------------------------------------
 # Configure Streamlit page
 # --------------------------------------------------------------
-from roundel_app_biventricular_utils import *
+from roundel_utils import *
 st.set_page_config(page_title="Roundel (Biventricular)", page_icon="⭕️", layout='wide')
 
 # -----------------------------
