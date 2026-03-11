@@ -1,4 +1,4 @@
-# Roundel Biventricular
+# Roundel Registry
 
 Short-Axis Segementation App.
 
